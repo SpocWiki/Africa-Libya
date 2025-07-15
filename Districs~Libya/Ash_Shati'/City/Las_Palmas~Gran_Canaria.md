@@ -1,4 +1,4 @@
-﻿---
+---
 location: [28,15.67] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Spain/City/Las_Palmas~Gran_Canaria|Las_Palmas~Gran_Canaria]] 
-- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Las_Palmas~Gran_Canaria.public|Las_Palmas~Gran_Canaria.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Las_Palmas~Gran_Canaria.internal|Las_Palmas~Gran_Canaria.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Las_Palmas~Gran_Canaria.protect|Las_Palmas~Gran_Canaria.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Las_Palmas~Gran_Canaria.private|Las_Palmas~Gran_Canaria.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Las_Palmas~Gran_Canaria.personal|Las_Palmas~Gran_Canaria.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Las_Palmas~Gran_Canaria.secret|Las_Palmas~Gran_Canaria.secret]] 
+
+### #is_/same_as :: [Las_Palmas~Gran_Canaria](/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ash_Shati'/City/Las_Palmas~Gran_Canaria.md) 
+
+### #is_/same_as :: [Las_Palmas~Gran_Canaria.public](/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ash_Shati'/City/Las_Palmas~Gran_Canaria.public.md) 
+
+### #is_/same_as :: [Las_Palmas~Gran_Canaria.internal](/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ash_Shati'/City/Las_Palmas~Gran_Canaria.internal.md) 
+
+### #is_/same_as :: [Las_Palmas~Gran_Canaria.protect](/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ash_Shati'/City/Las_Palmas~Gran_Canaria.protect.md) 
+
+### #is_/same_as :: [Las_Palmas~Gran_Canaria.private](/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ash_Shati'/City/Las_Palmas~Gran_Canaria.private.md) 
+
+### #is_/same_as :: [Las_Palmas~Gran_Canaria.personal](/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ash_Shati'/City/Las_Palmas~Gran_Canaria.personal.md) 
+
+### #is_/same_as :: [Las_Palmas~Gran_Canaria.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ash_Shati'/City/Las_Palmas~Gran_Canaria.secret.md)
+

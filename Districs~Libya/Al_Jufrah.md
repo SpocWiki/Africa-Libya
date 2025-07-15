@@ -40,11 +40,18 @@ markerFolder: ./Al_Jufrah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Libya/Counties/Al_Jufrah|Al_Jufrah]] 
-- [[../../../../../../_public/geo/Continent/Africa/Libya/Counties/Al_Jufrah.public|Al_Jufrah.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Libya/Counties/Al_Jufrah.internal|Al_Jufrah.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Libya/Counties/Al_Jufrah.protect|Al_Jufrah.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Libya/Counties/Al_Jufrah.private|Al_Jufrah.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Libya/Counties/Al_Jufrah.personal|Al_Jufrah.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Libya/Counties/Al_Jufrah.secret|Al_Jufrah.secret]] 
+
+### #is_/same_as :: [Al_Jufrah](/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jufrah.md) 
+
+### #is_/same_as :: [Al_Jufrah.public](/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jufrah.public.md) 
+
+### #is_/same_as :: [Al_Jufrah.internal](/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jufrah.internal.md) 
+
+### #is_/same_as :: [Al_Jufrah.protect](/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jufrah.protect.md) 
+
+### #is_/same_as :: [Al_Jufrah.private](/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jufrah.private.md) 
+
+### #is_/same_as :: [Al_Jufrah.personal](/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jufrah.personal.md) 
+
+### #is_/same_as :: [Al_Jufrah.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jufrah.secret.md)
 

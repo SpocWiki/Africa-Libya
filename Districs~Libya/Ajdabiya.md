@@ -40,11 +40,18 @@ markerFolder: ./Ajdabiya/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Libya/Counties/Ajdabiya|Ajdabiya]] 
-- [[../../../../../../_public/geo/Continent/Africa/Libya/Counties/Ajdabiya.public|Ajdabiya.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Libya/Counties/Ajdabiya.internal|Ajdabiya.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Libya/Counties/Ajdabiya.protect|Ajdabiya.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Libya/Counties/Ajdabiya.private|Ajdabiya.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Libya/Counties/Ajdabiya.personal|Ajdabiya.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Libya/Counties/Ajdabiya.secret|Ajdabiya.secret]] 
+
+### #is_/same_as :: [Ajdabiya](/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ajdabiya.md) 
+
+### #is_/same_as :: [Ajdabiya.public](/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ajdabiya.public.md) 
+
+### #is_/same_as :: [Ajdabiya.internal](/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ajdabiya.internal.md) 
+
+### #is_/same_as :: [Ajdabiya.protect](/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ajdabiya.protect.md) 
+
+### #is_/same_as :: [Ajdabiya.private](/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ajdabiya.private.md) 
+
+### #is_/same_as :: [Ajdabiya.personal](/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ajdabiya.personal.md) 
+
+### #is_/same_as :: [Ajdabiya.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ajdabiya.secret.md)
 

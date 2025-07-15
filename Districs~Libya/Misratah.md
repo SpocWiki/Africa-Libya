@@ -40,11 +40,18 @@ markerFolder: ./Misratah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Libya/Counties/Misratah|Misratah]] 
-- [[../../../../../../_public/geo/Continent/Africa/Libya/Counties/Misratah.public|Misratah.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Libya/Counties/Misratah.internal|Misratah.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Libya/Counties/Misratah.protect|Misratah.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Libya/Counties/Misratah.private|Misratah.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Libya/Counties/Misratah.personal|Misratah.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Libya/Counties/Misratah.secret|Misratah.secret]] 
+
+### #is_/same_as :: [Misratah](/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Misratah.md) 
+
+### #is_/same_as :: [Misratah.public](/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Misratah.public.md) 
+
+### #is_/same_as :: [Misratah.internal](/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Misratah.internal.md) 
+
+### #is_/same_as :: [Misratah.protect](/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Misratah.protect.md) 
+
+### #is_/same_as :: [Misratah.private](/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Misratah.private.md) 
+
+### #is_/same_as :: [Misratah.personal](/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Misratah.personal.md) 
+
+### #is_/same_as :: [Misratah.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Misratah.secret.md)
 

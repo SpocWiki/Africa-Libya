@@ -40,11 +40,18 @@ markerFolder: ./Ash_Shati'/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Libya/Counties/Ash_Shati'|Ash_Shati']] 
-- [[../../../../../../_public/geo/Continent/Africa/Libya/Counties/Ash_Shati'.public|Ash_Shati'.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Libya/Counties/Ash_Shati'.internal|Ash_Shati'.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Libya/Counties/Ash_Shati'.protect|Ash_Shati'.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Libya/Counties/Ash_Shati'.private|Ash_Shati'.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Libya/Counties/Ash_Shati'.personal|Ash_Shati'.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Libya/Counties/Ash_Shati'.secret|Ash_Shati'.secret]] 
+
+### #is_/same_as :: [Ash_Shati'](/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ash_Shati'.md) 
+
+### #is_/same_as :: [Ash_Shati'.public](/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ash_Shati'.public.md) 
+
+### #is_/same_as :: [Ash_Shati'.internal](/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ash_Shati'.internal.md) 
+
+### #is_/same_as :: [Ash_Shati'.protect](/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ash_Shati'.protect.md) 
+
+### #is_/same_as :: [Ash_Shati'.private](/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ash_Shati'.private.md) 
+
+### #is_/same_as :: [Ash_Shati'.personal](/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ash_Shati'.personal.md) 
+
+### #is_/same_as :: [Ash_Shati'.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ash_Shati'.secret.md)
 

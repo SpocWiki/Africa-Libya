@@ -40,11 +40,18 @@ markerFolder: ./Ghadamis/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Libya/Counties/Ghadamis|Ghadamis]] 
-- [[../../../../../../_public/geo/Continent/Africa/Libya/Counties/Ghadamis.public|Ghadamis.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Libya/Counties/Ghadamis.internal|Ghadamis.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Libya/Counties/Ghadamis.protect|Ghadamis.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Libya/Counties/Ghadamis.private|Ghadamis.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Libya/Counties/Ghadamis.personal|Ghadamis.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Libya/Counties/Ghadamis.secret|Ghadamis.secret]] 
+
+### #is_/same_as :: [Ghadamis](/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ghadamis.md) 
+
+### #is_/same_as :: [Ghadamis.public](/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ghadamis.public.md) 
+
+### #is_/same_as :: [Ghadamis.internal](/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ghadamis.internal.md) 
+
+### #is_/same_as :: [Ghadamis.protect](/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ghadamis.protect.md) 
+
+### #is_/same_as :: [Ghadamis.private](/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ghadamis.private.md) 
+
+### #is_/same_as :: [Ghadamis.personal](/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ghadamis.personal.md) 
+
+### #is_/same_as :: [Ghadamis.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ghadamis.secret.md)
 

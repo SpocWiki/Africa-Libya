@@ -40,11 +40,18 @@ markerFolder: ./Sabha/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Libya/Counties/Sabha|Sabha]] 
-- [[../../../../../../_public/geo/Continent/Africa/Libya/Counties/Sabha.public|Sabha.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Libya/Counties/Sabha.internal|Sabha.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Libya/Counties/Sabha.protect|Sabha.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Libya/Counties/Sabha.private|Sabha.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Libya/Counties/Sabha.personal|Sabha.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Libya/Counties/Sabha.secret|Sabha.secret]] 
+
+### #is_/same_as :: [Sabha](/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Sabha.md) 
+
+### #is_/same_as :: [Sabha.public](/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Sabha.public.md) 
+
+### #is_/same_as :: [Sabha.internal](/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Sabha.internal.md) 
+
+### #is_/same_as :: [Sabha.protect](/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Sabha.protect.md) 
+
+### #is_/same_as :: [Sabha.private](/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Sabha.private.md) 
+
+### #is_/same_as :: [Sabha.personal](/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Sabha.personal.md) 
+
+### #is_/same_as :: [Sabha.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Sabha.secret.md)
 

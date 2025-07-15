@@ -40,11 +40,18 @@ markerFolder: ./Al_Marj/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Libya/Counties/Al_Marj|Al_Marj]] 
-- [[../../../../../../_public/geo/Continent/Africa/Libya/Counties/Al_Marj.public|Al_Marj.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Libya/Counties/Al_Marj.internal|Al_Marj.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Libya/Counties/Al_Marj.protect|Al_Marj.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Libya/Counties/Al_Marj.private|Al_Marj.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Libya/Counties/Al_Marj.personal|Al_Marj.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Libya/Counties/Al_Marj.secret|Al_Marj.secret]] 
+
+### #is_/same_as :: [Al_Marj](/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Marj.md) 
+
+### #is_/same_as :: [Al_Marj.public](/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Marj.public.md) 
+
+### #is_/same_as :: [Al_Marj.internal](/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Marj.internal.md) 
+
+### #is_/same_as :: [Al_Marj.protect](/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Marj.protect.md) 
+
+### #is_/same_as :: [Al_Marj.private](/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Marj.private.md) 
+
+### #is_/same_as :: [Al_Marj.personal](/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Marj.personal.md) 
+
+### #is_/same_as :: [Al_Marj.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Marj.secret.md)
 

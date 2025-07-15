@@ -40,11 +40,18 @@ markerFolder: ./Surt/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Libya/Counties/Surt|Surt]] 
-- [[../../../../../../_public/geo/Continent/Africa/Libya/Counties/Surt.public|Surt.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Libya/Counties/Surt.internal|Surt.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Libya/Counties/Surt.protect|Surt.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Libya/Counties/Surt.private|Surt.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Libya/Counties/Surt.personal|Surt.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Libya/Counties/Surt.secret|Surt.secret]] 
+
+### #is_/same_as :: [Surt](/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Surt.md) 
+
+### #is_/same_as :: [Surt.public](/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Surt.public.md) 
+
+### #is_/same_as :: [Surt.internal](/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Surt.internal.md) 
+
+### #is_/same_as :: [Surt.protect](/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Surt.protect.md) 
+
+### #is_/same_as :: [Surt.private](/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Surt.private.md) 
+
+### #is_/same_as :: [Surt.personal](/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Surt.personal.md) 
+
+### #is_/same_as :: [Surt.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Surt.secret.md)
 

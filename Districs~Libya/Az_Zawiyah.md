@@ -40,11 +40,18 @@ markerFolder: ./Az_Zawiyah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Libya/Counties/Az_Zawiyah|Az_Zawiyah]] 
-- [[../../../../../../_public/geo/Continent/Africa/Libya/Counties/Az_Zawiyah.public|Az_Zawiyah.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Libya/Counties/Az_Zawiyah.internal|Az_Zawiyah.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Libya/Counties/Az_Zawiyah.protect|Az_Zawiyah.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Libya/Counties/Az_Zawiyah.private|Az_Zawiyah.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Libya/Counties/Az_Zawiyah.personal|Az_Zawiyah.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Libya/Counties/Az_Zawiyah.secret|Az_Zawiyah.secret]] 
+
+### #is_/same_as :: [Az_Zawiyah](/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Az_Zawiyah.md) 
+
+### #is_/same_as :: [Az_Zawiyah.public](/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Az_Zawiyah.public.md) 
+
+### #is_/same_as :: [Az_Zawiyah.internal](/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Az_Zawiyah.internal.md) 
+
+### #is_/same_as :: [Az_Zawiyah.protect](/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Az_Zawiyah.protect.md) 
+
+### #is_/same_as :: [Az_Zawiyah.private](/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Az_Zawiyah.private.md) 
+
+### #is_/same_as :: [Az_Zawiyah.personal](/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Az_Zawiyah.personal.md) 
+
+### #is_/same_as :: [Az_Zawiyah.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Az_Zawiyah.secret.md)
 

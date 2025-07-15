@@ -131,10 +131,4 @@ Capital :: [[Tripolis=Tripoli]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Libya|Libya]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~North/Libya.internal|Libya.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~North/Libya.protect|Libya.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~North/Libya.private|Libya.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~North/Libya.personal|Libya.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~North/Libya.secret|Libya.secret]] 
+

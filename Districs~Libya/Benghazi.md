@@ -40,11 +40,18 @@ markerFolder: ./Benghazi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Libya/Counties/Benghazi|Benghazi]] 
-- [[../../../../../../_public/geo/Continent/Africa/Libya/Counties/Benghazi.public|Benghazi.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Libya/Counties/Benghazi.internal|Benghazi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Libya/Counties/Benghazi.protect|Benghazi.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Libya/Counties/Benghazi.private|Benghazi.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Libya/Counties/Benghazi.personal|Benghazi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Libya/Counties/Benghazi.secret|Benghazi.secret]] 
+
+### #is_/same_as :: [Benghazi](/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Benghazi.md) 
+
+### #is_/same_as :: [Benghazi.public](/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Benghazi.public.md) 
+
+### #is_/same_as :: [Benghazi.internal](/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Benghazi.internal.md) 
+
+### #is_/same_as :: [Benghazi.protect](/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Benghazi.protect.md) 
+
+### #is_/same_as :: [Benghazi.private](/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Benghazi.private.md) 
+
+### #is_/same_as :: [Benghazi.personal](/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Benghazi.personal.md) 
+
+### #is_/same_as :: [Benghazi.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Benghazi.secret.md)
 

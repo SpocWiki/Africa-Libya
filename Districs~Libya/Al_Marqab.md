@@ -40,11 +40,18 @@ markerFolder: ./Al_Marqab/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Libya/Counties/Al_Marqab|Al_Marqab]] 
-- [[../../../../../../_public/geo/Continent/Africa/Libya/Counties/Al_Marqab.public|Al_Marqab.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Libya/Counties/Al_Marqab.internal|Al_Marqab.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Libya/Counties/Al_Marqab.protect|Al_Marqab.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Libya/Counties/Al_Marqab.private|Al_Marqab.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Libya/Counties/Al_Marqab.personal|Al_Marqab.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Libya/Counties/Al_Marqab.secret|Al_Marqab.secret]] 
+
+### #is_/same_as :: [Al_Marqab](/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Marqab.md) 
+
+### #is_/same_as :: [Al_Marqab.public](/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Marqab.public.md) 
+
+### #is_/same_as :: [Al_Marqab.internal](/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Marqab.internal.md) 
+
+### #is_/same_as :: [Al_Marqab.protect](/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Marqab.protect.md) 
+
+### #is_/same_as :: [Al_Marqab.private](/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Marqab.private.md) 
+
+### #is_/same_as :: [Al_Marqab.personal](/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Marqab.personal.md) 
+
+### #is_/same_as :: [Al_Marqab.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Marqab.secret.md)
 

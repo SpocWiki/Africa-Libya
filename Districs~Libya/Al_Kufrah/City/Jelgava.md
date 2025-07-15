@@ -1,4 +1,4 @@
-﻿---
+---
 location: [26.65,23.72] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Jelgava|Jelgava]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Jelgava.public|Jelgava.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Jelgava.internal|Jelgava.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Jelgava.protect|Jelgava.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Jelgava.private|Jelgava.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Jelgava.personal|Jelgava.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Jelgava.secret|Jelgava.secret]] 
+
+### #is_/same_as :: [Jelgava](/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Kufrah/City/Jelgava.md) 
+
+### #is_/same_as :: [Jelgava.public](/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Kufrah/City/Jelgava.public.md) 
+
+### #is_/same_as :: [Jelgava.internal](/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Kufrah/City/Jelgava.internal.md) 
+
+### #is_/same_as :: [Jelgava.protect](/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Kufrah/City/Jelgava.protect.md) 
+
+### #is_/same_as :: [Jelgava.private](/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Kufrah/City/Jelgava.private.md) 
+
+### #is_/same_as :: [Jelgava.personal](/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Kufrah/City/Jelgava.personal.md) 
+
+### #is_/same_as :: [Jelgava.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Kufrah/City/Jelgava.secret.md)
+

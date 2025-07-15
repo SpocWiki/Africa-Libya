@@ -40,11 +40,18 @@ markerFolder: ./Tajura'_wa_an_Nawahi_al_Arba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Libya/Counties/Tajura'_wa_an_Nawahi_al_Arba|Tajura'_wa_an_Nawahi_al_Arba]] 
-- [[../../../../../../_public/geo/Continent/Africa/Libya/Counties/Tajura'_wa_an_Nawahi_al_Arba.public|Tajura'_wa_an_Nawahi_al_Arba.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Libya/Counties/Tajura'_wa_an_Nawahi_al_Arba.internal|Tajura'_wa_an_Nawahi_al_Arba.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Libya/Counties/Tajura'_wa_an_Nawahi_al_Arba.protect|Tajura'_wa_an_Nawahi_al_Arba.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Libya/Counties/Tajura'_wa_an_Nawahi_al_Arba.private|Tajura'_wa_an_Nawahi_al_Arba.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Libya/Counties/Tajura'_wa_an_Nawahi_al_Arba.personal|Tajura'_wa_an_Nawahi_al_Arba.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Libya/Counties/Tajura'_wa_an_Nawahi_al_Arba.secret|Tajura'_wa_an_Nawahi_al_Arba.secret]] 
+
+### #is_/same_as :: [Tajura'_wa_an_Nawahi_al_Arba](/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Tajura'_wa_an_Nawahi_al_Arba.md) 
+
+### #is_/same_as :: [Tajura'_wa_an_Nawahi_al_Arba.public](/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Tajura'_wa_an_Nawahi_al_Arba.public.md) 
+
+### #is_/same_as :: [Tajura'_wa_an_Nawahi_al_Arba.internal](/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Tajura'_wa_an_Nawahi_al_Arba.internal.md) 
+
+### #is_/same_as :: [Tajura'_wa_an_Nawahi_al_Arba.protect](/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Tajura'_wa_an_Nawahi_al_Arba.protect.md) 
+
+### #is_/same_as :: [Tajura'_wa_an_Nawahi_al_Arba.private](/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Tajura'_wa_an_Nawahi_al_Arba.private.md) 
+
+### #is_/same_as :: [Tajura'_wa_an_Nawahi_al_Arba.personal](/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Tajura'_wa_an_Nawahi_al_Arba.personal.md) 
+
+### #is_/same_as :: [Tajura'_wa_an_Nawahi_al_Arba.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Tajura'_wa_an_Nawahi_al_Arba.secret.md)
 

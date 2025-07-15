@@ -40,11 +40,18 @@ markerFolder: ./Al_Jabal_al_Akhdar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Libya/Counties/Al_Jabal_al_Akhdar|Al_Jabal_al_Akhdar]] 
-- [[../../../../../../_public/geo/Continent/Africa/Libya/Counties/Al_Jabal_al_Akhdar.public|Al_Jabal_al_Akhdar.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Libya/Counties/Al_Jabal_al_Akhdar.internal|Al_Jabal_al_Akhdar.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Libya/Counties/Al_Jabal_al_Akhdar.protect|Al_Jabal_al_Akhdar.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Libya/Counties/Al_Jabal_al_Akhdar.private|Al_Jabal_al_Akhdar.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Libya/Counties/Al_Jabal_al_Akhdar.personal|Al_Jabal_al_Akhdar.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Libya/Counties/Al_Jabal_al_Akhdar.secret|Al_Jabal_al_Akhdar.secret]] 
+
+### #is_/same_as :: [Al_Jabal_al_Akhdar](/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jabal_al_Akhdar.md) 
+
+### #is_/same_as :: [Al_Jabal_al_Akhdar.public](/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jabal_al_Akhdar.public.md) 
+
+### #is_/same_as :: [Al_Jabal_al_Akhdar.internal](/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jabal_al_Akhdar.internal.md) 
+
+### #is_/same_as :: [Al_Jabal_al_Akhdar.protect](/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jabal_al_Akhdar.protect.md) 
+
+### #is_/same_as :: [Al_Jabal_al_Akhdar.private](/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jabal_al_Akhdar.private.md) 
+
+### #is_/same_as :: [Al_Jabal_al_Akhdar.personal](/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jabal_al_Akhdar.personal.md) 
+
+### #is_/same_as :: [Al_Jabal_al_Akhdar.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jabal_al_Akhdar.secret.md)
 
