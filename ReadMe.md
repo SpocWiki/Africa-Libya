@@ -1,36 +1,37 @@
 ---
 location:
-- 32.89
-- 13.19
+  - 32.89
+  - 13.19
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26955
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Libya
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Libya
-- Libia
-- Libye
-- ليبيا
-- 利比亚
-- Ливия
+  - Libya
+  - Libia
+  - Libye
+  - ليبيا
+  - 利比亚
+  - Ливия
 Languages:
-- ar-LY
-- it
-- en
+  - ar-LY
+  - it
+  - en
 ---
 
 

@@ -1,30 +1,29 @@
 ---
-location: [ 32.7 , 12 ] 
+location:
+  - 32.7
+  - 12
 type: geo-Region
 title: An_Nuqat_al_Khams
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- An_Nuqat_al_Khams
-
+  - An_Nuqat_al_Khams
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # An_Nuqat_al_Khams
