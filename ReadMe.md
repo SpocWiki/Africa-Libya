@@ -117,7 +117,7 @@ markerFolder: .//
 [Area-Land::1759540] 
 Continent :: [[Africa]]  
 [VehicleCode::LAR] 
-Capital :: [[Tripolis=Tripoli]]  
+Capital :: [[Districs~Libya/Tajura'_wa_an_Nawahi_al_Arba/City/Tripoli]]  
 
 ![[Seal_of_the_Government_of_National_Unity_(Libya).svg|350]] 
 
