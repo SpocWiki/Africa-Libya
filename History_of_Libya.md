@@ -38,3 +38,20 @@ Commons_category: History of Libya
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Libya) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Libya/History_of_Libya|History_of_Libya]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Libya/History_of_Libya.public|History_of_Libya.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Libya/History_of_Libya.internal|History_of_Libya.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Libya/History_of_Libya.protect|History_of_Libya.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Libya/History_of_Libya.private|History_of_Libya.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Libya/History_of_Libya.personal|History_of_Libya.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Libya/History_of_Libya.secret|History_of_Libya.secret]] 
+

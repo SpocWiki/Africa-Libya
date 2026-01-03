@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jelgava](/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Kufrah/City/Jelgava.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Kufrah/City/Jelgava|Jelgava]] 
 
-### #is_/same_as :: [Jelgava.public](/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Kufrah/City/Jelgava.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Kufrah/City/Jelgava.public|Jelgava.public]] 
 
-### #is_/same_as :: [Jelgava.internal](/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Kufrah/City/Jelgava.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Kufrah/City/Jelgava.internal|Jelgava.internal]] 
 
-### #is_/same_as :: [Jelgava.protect](/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Kufrah/City/Jelgava.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Kufrah/City/Jelgava.protect|Jelgava.protect]] 
 
-### #is_/same_as :: [Jelgava.private](/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Kufrah/City/Jelgava.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Kufrah/City/Jelgava.private|Jelgava.private]] 
 
-### #is_/same_as :: [Jelgava.personal](/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Kufrah/City/Jelgava.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Kufrah/City/Jelgava.personal|Jelgava.personal]] 
 
-### #is_/same_as :: [Jelgava.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Kufrah/City/Jelgava.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Kufrah/City/Jelgava.secret|Jelgava.secret]] 
 

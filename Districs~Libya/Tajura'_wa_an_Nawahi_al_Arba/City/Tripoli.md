@@ -106,17 +106,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tripoli](/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Tajura'_wa_an_Nawahi_al_Arba/City/Tripoli.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Tajura'_wa_an_Nawahi_al_Arba/City/Tripoli|Tripoli]] 
 
-### #is_/same_as :: [Tripoli.public](/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Tajura'_wa_an_Nawahi_al_Arba/City/Tripoli.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Tajura'_wa_an_Nawahi_al_Arba/City/Tripoli.public|Tripoli.public]] 
 
-### #is_/same_as :: [Tripoli.internal](/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Tajura'_wa_an_Nawahi_al_Arba/City/Tripoli.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Tajura'_wa_an_Nawahi_al_Arba/City/Tripoli.internal|Tripoli.internal]] 
 
-### #is_/same_as :: [Tripoli.protect](/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Tajura'_wa_an_Nawahi_al_Arba/City/Tripoli.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Tajura'_wa_an_Nawahi_al_Arba/City/Tripoli.protect|Tripoli.protect]] 
 
-### #is_/same_as :: [Tripoli.private](/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Tajura'_wa_an_Nawahi_al_Arba/City/Tripoli.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Tajura'_wa_an_Nawahi_al_Arba/City/Tripoli.private|Tripoli.private]] 
 
-### #is_/same_as :: [Tripoli.personal](/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Tajura'_wa_an_Nawahi_al_Arba/City/Tripoli.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Tajura'_wa_an_Nawahi_al_Arba/City/Tripoli.personal|Tripoli.personal]] 
 
-### #is_/same_as :: [Tripoli.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Tajura'_wa_an_Nawahi_al_Arba/City/Tripoli.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Tajura'_wa_an_Nawahi_al_Arba/City/Tripoli.secret|Tripoli.secret]] 
 

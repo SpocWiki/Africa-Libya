@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Santa_Cruz~La_Palma](/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jufrah/City/Santa_Cruz~La_Palma.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jufrah/City/Santa_Cruz~La_Palma|Santa_Cruz~La_Palma]] 
 
-### #is_/same_as :: [Santa_Cruz~La_Palma.public](/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jufrah/City/Santa_Cruz~La_Palma.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jufrah/City/Santa_Cruz~La_Palma.public|Santa_Cruz~La_Palma.public]] 
 
-### #is_/same_as :: [Santa_Cruz~La_Palma.internal](/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jufrah/City/Santa_Cruz~La_Palma.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jufrah/City/Santa_Cruz~La_Palma.internal|Santa_Cruz~La_Palma.internal]] 
 
-### #is_/same_as :: [Santa_Cruz~La_Palma.protect](/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jufrah/City/Santa_Cruz~La_Palma.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jufrah/City/Santa_Cruz~La_Palma.protect|Santa_Cruz~La_Palma.protect]] 
 
-### #is_/same_as :: [Santa_Cruz~La_Palma.private](/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jufrah/City/Santa_Cruz~La_Palma.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jufrah/City/Santa_Cruz~La_Palma.private|Santa_Cruz~La_Palma.private]] 
 
-### #is_/same_as :: [Santa_Cruz~La_Palma.personal](/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jufrah/City/Santa_Cruz~La_Palma.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jufrah/City/Santa_Cruz~La_Palma.personal|Santa_Cruz~La_Palma.personal]] 
 
-### #is_/same_as :: [Santa_Cruz~La_Palma.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jufrah/City/Santa_Cruz~La_Palma.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jufrah/City/Santa_Cruz~La_Palma.secret|Santa_Cruz~La_Palma.secret]] 
 

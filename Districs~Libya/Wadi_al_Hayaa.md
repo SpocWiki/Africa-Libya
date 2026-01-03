@@ -40,17 +40,17 @@ markerFolder: ./Wadi_al_Hayaa/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wadi_al_Hayaa](/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Wadi_al_Hayaa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Wadi_al_Hayaa|Wadi_al_Hayaa]] 
 
-### #is_/same_as :: [Wadi_al_Hayaa.public](/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Wadi_al_Hayaa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Wadi_al_Hayaa.public|Wadi_al_Hayaa.public]] 
 
-### #is_/same_as :: [Wadi_al_Hayaa.internal](/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Wadi_al_Hayaa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Wadi_al_Hayaa.internal|Wadi_al_Hayaa.internal]] 
 
-### #is_/same_as :: [Wadi_al_Hayaa.protect](/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Wadi_al_Hayaa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Wadi_al_Hayaa.protect|Wadi_al_Hayaa.protect]] 
 
-### #is_/same_as :: [Wadi_al_Hayaa.private](/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Wadi_al_Hayaa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Wadi_al_Hayaa.private|Wadi_al_Hayaa.private]] 
 
-### #is_/same_as :: [Wadi_al_Hayaa.personal](/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Wadi_al_Hayaa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Wadi_al_Hayaa.personal|Wadi_al_Hayaa.personal]] 
 
-### #is_/same_as :: [Wadi_al_Hayaa.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Wadi_al_Hayaa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Wadi_al_Hayaa.secret|Wadi_al_Hayaa.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Ghat/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ghat](/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ghat.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ghat|Ghat]] 
 
-### #is_/same_as :: [Ghat.public](/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ghat.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ghat.public|Ghat.public]] 
 
-### #is_/same_as :: [Ghat.internal](/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ghat.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ghat.internal|Ghat.internal]] 
 
-### #is_/same_as :: [Ghat.protect](/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ghat.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ghat.protect|Ghat.protect]] 
 
-### #is_/same_as :: [Ghat.private](/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ghat.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ghat.private|Ghat.private]] 
 
-### #is_/same_as :: [Ghat.personal](/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ghat.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ghat.personal|Ghat.personal]] 
 
-### #is_/same_as :: [Ghat.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ghat.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ghat.secret|Ghat.secret]] 
 

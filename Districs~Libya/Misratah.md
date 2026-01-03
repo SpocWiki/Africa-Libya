@@ -40,17 +40,17 @@ markerFolder: ./Misratah/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Misratah](/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Misratah.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Misratah|Misratah]] 
 
-### #is_/same_as :: [Misratah.public](/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Misratah.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Misratah.public|Misratah.public]] 
 
-### #is_/same_as :: [Misratah.internal](/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Misratah.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Misratah.internal|Misratah.internal]] 
 
-### #is_/same_as :: [Misratah.protect](/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Misratah.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Misratah.protect|Misratah.protect]] 
 
-### #is_/same_as :: [Misratah.private](/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Misratah.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Misratah.private|Misratah.private]] 
 
-### #is_/same_as :: [Misratah.personal](/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Misratah.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Misratah.personal|Misratah.personal]] 
 
-### #is_/same_as :: [Misratah.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Misratah.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Misratah.secret|Misratah.secret]] 
 

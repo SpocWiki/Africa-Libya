@@ -40,17 +40,17 @@ markerFolder: ./Al_Butnan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Al_Butnan](/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Butnan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Butnan|Al_Butnan]] 
 
-### #is_/same_as :: [Al_Butnan.public](/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Butnan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Butnan.public|Al_Butnan.public]] 
 
-### #is_/same_as :: [Al_Butnan.internal](/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Butnan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Butnan.internal|Al_Butnan.internal]] 
 
-### #is_/same_as :: [Al_Butnan.protect](/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Butnan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Butnan.protect|Al_Butnan.protect]] 
 
-### #is_/same_as :: [Al_Butnan.private](/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Butnan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Butnan.private|Al_Butnan.private]] 
 
-### #is_/same_as :: [Al_Butnan.personal](/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Butnan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Butnan.personal|Al_Butnan.personal]] 
 
-### #is_/same_as :: [Al_Butnan.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Butnan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Butnan.secret|Al_Butnan.secret]] 
 

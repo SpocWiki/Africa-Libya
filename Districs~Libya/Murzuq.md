@@ -40,17 +40,17 @@ markerFolder: ./Murzuq/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Murzuq](/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Murzuq.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Murzuq|Murzuq]] 
 
-### #is_/same_as :: [Murzuq.public](/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Murzuq.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Murzuq.public|Murzuq.public]] 
 
-### #is_/same_as :: [Murzuq.internal](/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Murzuq.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Murzuq.internal|Murzuq.internal]] 
 
-### #is_/same_as :: [Murzuq.protect](/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Murzuq.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Murzuq.protect|Murzuq.protect]] 
 
-### #is_/same_as :: [Murzuq.private](/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Murzuq.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Murzuq.private|Murzuq.private]] 
 
-### #is_/same_as :: [Murzuq.personal](/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Murzuq.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Murzuq.personal|Murzuq.personal]] 
 
-### #is_/same_as :: [Murzuq.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Murzuq.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Murzuq.secret|Murzuq.secret]] 
 

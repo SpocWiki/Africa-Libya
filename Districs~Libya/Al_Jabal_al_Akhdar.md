@@ -40,17 +40,17 @@ markerFolder: ./Al_Jabal_al_Akhdar/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Al_Jabal_al_Akhdar](/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jabal_al_Akhdar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jabal_al_Akhdar|Al_Jabal_al_Akhdar]] 
 
-### #is_/same_as :: [Al_Jabal_al_Akhdar.public](/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jabal_al_Akhdar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jabal_al_Akhdar.public|Al_Jabal_al_Akhdar.public]] 
 
-### #is_/same_as :: [Al_Jabal_al_Akhdar.internal](/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jabal_al_Akhdar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jabal_al_Akhdar.internal|Al_Jabal_al_Akhdar.internal]] 
 
-### #is_/same_as :: [Al_Jabal_al_Akhdar.protect](/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jabal_al_Akhdar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jabal_al_Akhdar.protect|Al_Jabal_al_Akhdar.protect]] 
 
-### #is_/same_as :: [Al_Jabal_al_Akhdar.private](/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jabal_al_Akhdar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jabal_al_Akhdar.private|Al_Jabal_al_Akhdar.private]] 
 
-### #is_/same_as :: [Al_Jabal_al_Akhdar.personal](/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jabal_al_Akhdar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jabal_al_Akhdar.personal|Al_Jabal_al_Akhdar.personal]] 
 
-### #is_/same_as :: [Al_Jabal_al_Akhdar.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jabal_al_Akhdar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jabal_al_Akhdar.secret|Al_Jabal_al_Akhdar.secret]] 
 

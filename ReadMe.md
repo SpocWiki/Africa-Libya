@@ -133,17 +133,17 @@ Capital :: [[Districs~Libya/Tajura'_wa_an_Nawahi_al_Arba/City/Tripoli]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [ReadMe](/_Standards/Earth/Continent/Africa/Africa~North/Libya/ReadMe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Libya/ReadMe|ReadMe]] 
 
-### #is_/same_as :: [ReadMe.public](/_public/Earth/Continent/Africa/Africa~North/Libya/ReadMe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Libya/ReadMe.public|ReadMe.public]] 
 
-### #is_/same_as :: [ReadMe.internal](/_internal/Earth/Continent/Africa/Africa~North/Libya/ReadMe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Libya/ReadMe.internal|ReadMe.internal]] 
 
-### #is_/same_as :: [ReadMe.protect](/_protect/Earth/Continent/Africa/Africa~North/Libya/ReadMe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Libya/ReadMe.protect|ReadMe.protect]] 
 
-### #is_/same_as :: [ReadMe.private](/_private/Earth/Continent/Africa/Africa~North/Libya/ReadMe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Libya/ReadMe.private|ReadMe.private]] 
 
-### #is_/same_as :: [ReadMe.personal](/_personal/Earth/Continent/Africa/Africa~North/Libya/ReadMe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Libya/ReadMe.personal|ReadMe.personal]] 
 
-### #is_/same_as :: [ReadMe.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya/ReadMe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Libya/ReadMe.secret|ReadMe.secret]] 
 

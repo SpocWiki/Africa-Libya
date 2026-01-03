@@ -40,17 +40,17 @@ markerFolder: ./Al_Qubbah/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Al_Qubbah](/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Qubbah.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Qubbah|Al_Qubbah]] 
 
-### #is_/same_as :: [Al_Qubbah.public](/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Qubbah.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Qubbah.public|Al_Qubbah.public]] 
 
-### #is_/same_as :: [Al_Qubbah.internal](/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Qubbah.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Qubbah.internal|Al_Qubbah.internal]] 
 
-### #is_/same_as :: [Al_Qubbah.protect](/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Qubbah.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Qubbah.protect|Al_Qubbah.protect]] 
 
-### #is_/same_as :: [Al_Qubbah.private](/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Qubbah.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Qubbah.private|Al_Qubbah.private]] 
 
-### #is_/same_as :: [Al_Qubbah.personal](/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Qubbah.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Qubbah.personal|Al_Qubbah.personal]] 
 
-### #is_/same_as :: [Al_Qubbah.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Qubbah.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Qubbah.secret|Al_Qubbah.secret]] 
 

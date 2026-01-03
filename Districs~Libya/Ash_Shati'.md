@@ -40,17 +40,17 @@ markerFolder: ./Ash_Shati'/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ash_Shati'](/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ash_Shati'.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ash_Shati'|Ash_Shati']] 
 
-### #is_/same_as :: [Ash_Shati'.public](/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ash_Shati'.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ash_Shati'.public|Ash_Shati'.public]] 
 
-### #is_/same_as :: [Ash_Shati'.internal](/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ash_Shati'.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ash_Shati'.internal|Ash_Shati'.internal]] 
 
-### #is_/same_as :: [Ash_Shati'.protect](/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ash_Shati'.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ash_Shati'.protect|Ash_Shati'.protect]] 
 
-### #is_/same_as :: [Ash_Shati'.private](/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ash_Shati'.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ash_Shati'.private|Ash_Shati'.private]] 
 
-### #is_/same_as :: [Ash_Shati'.personal](/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ash_Shati'.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ash_Shati'.personal|Ash_Shati'.personal]] 
 
-### #is_/same_as :: [Ash_Shati'.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ash_Shati'.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Ash_Shati'.secret|Ash_Shati'.secret]] 
 

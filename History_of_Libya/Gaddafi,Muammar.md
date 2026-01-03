@@ -197,3 +197,20 @@ ISNI:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Muammar%20Gaddafi) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Libya/History_of_Libya/Gaddafi,Muammar|Gaddafi,Muammar]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Libya/History_of_Libya/Gaddafi,Muammar.public|Gaddafi,Muammar.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Libya/History_of_Libya/Gaddafi,Muammar.internal|Gaddafi,Muammar.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Libya/History_of_Libya/Gaddafi,Muammar.protect|Gaddafi,Muammar.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Libya/History_of_Libya/Gaddafi,Muammar.private|Gaddafi,Muammar.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Libya/History_of_Libya/Gaddafi,Muammar.personal|Gaddafi,Muammar.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Libya/History_of_Libya/Gaddafi,Muammar.secret|Gaddafi,Muammar.secret]] 
+

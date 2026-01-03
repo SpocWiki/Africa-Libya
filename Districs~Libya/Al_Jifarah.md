@@ -40,17 +40,17 @@ markerFolder: ./Al_Jifarah/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Al_Jifarah](/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jifarah.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jifarah|Al_Jifarah]] 
 
-### #is_/same_as :: [Al_Jifarah.public](/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jifarah.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jifarah.public|Al_Jifarah.public]] 
 
-### #is_/same_as :: [Al_Jifarah.internal](/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jifarah.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jifarah.internal|Al_Jifarah.internal]] 
 
-### #is_/same_as :: [Al_Jifarah.protect](/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jifarah.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jifarah.protect|Al_Jifarah.protect]] 
 
-### #is_/same_as :: [Al_Jifarah.private](/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jifarah.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jifarah.private|Al_Jifarah.private]] 
 
-### #is_/same_as :: [Al_Jifarah.personal](/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jifarah.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jifarah.personal|Al_Jifarah.personal]] 
 
-### #is_/same_as :: [Al_Jifarah.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jifarah.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Jifarah.secret|Al_Jifarah.secret]] 
 

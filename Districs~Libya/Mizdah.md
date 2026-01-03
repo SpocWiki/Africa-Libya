@@ -40,17 +40,17 @@ markerFolder: ./Mizdah/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mizdah](/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Mizdah.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Mizdah|Mizdah]] 
 
-### #is_/same_as :: [Mizdah.public](/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Mizdah.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Mizdah.public|Mizdah.public]] 
 
-### #is_/same_as :: [Mizdah.internal](/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Mizdah.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Mizdah.internal|Mizdah.internal]] 
 
-### #is_/same_as :: [Mizdah.protect](/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Mizdah.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Mizdah.protect|Mizdah.protect]] 
 
-### #is_/same_as :: [Mizdah.private](/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Mizdah.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Mizdah.private|Mizdah.private]] 
 
-### #is_/same_as :: [Mizdah.personal](/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Mizdah.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Mizdah.personal|Mizdah.personal]] 
 
-### #is_/same_as :: [Mizdah.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Mizdah.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Mizdah.secret|Mizdah.secret]] 
 

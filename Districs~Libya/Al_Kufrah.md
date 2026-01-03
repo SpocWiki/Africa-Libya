@@ -40,17 +40,17 @@ markerFolder: ./Al_Kufrah/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Al_Kufrah](/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Kufrah.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Kufrah|Al_Kufrah]] 
 
-### #is_/same_as :: [Al_Kufrah.public](/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Kufrah.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Kufrah.public|Al_Kufrah.public]] 
 
-### #is_/same_as :: [Al_Kufrah.internal](/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Kufrah.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Kufrah.internal|Al_Kufrah.internal]] 
 
-### #is_/same_as :: [Al_Kufrah.protect](/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Kufrah.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Kufrah.protect|Al_Kufrah.protect]] 
 
-### #is_/same_as :: [Al_Kufrah.private](/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Kufrah.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Kufrah.private|Al_Kufrah.private]] 
 
-### #is_/same_as :: [Al_Kufrah.personal](/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Kufrah.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Kufrah.personal|Al_Kufrah.personal]] 
 
-### #is_/same_as :: [Al_Kufrah.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Kufrah.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Libya/Districs~Libya/Al_Kufrah.secret|Al_Kufrah.secret]] 
 
