@@ -28,7 +28,7 @@ coordinates: [[Santa_Cruz~La_Palma]]
 markerFile: [[Santa_Cruz~La_Palma]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Al_Jifarah/
 markerFolder: ./Al_Jifarah/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

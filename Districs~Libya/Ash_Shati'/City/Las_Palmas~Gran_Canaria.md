@@ -28,7 +28,7 @@ coordinates: [[Las_Palmas~Gran_Canaria]]
 markerFile: [[Las_Palmas~Gran_Canaria]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

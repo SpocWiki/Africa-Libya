@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Al_Jabal_al_Akhdar/
 markerFolder: ./Al_Jabal_al_Akhdar/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
