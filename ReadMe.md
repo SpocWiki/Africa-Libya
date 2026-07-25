@@ -27,7 +27,7 @@ dv_UNTERM_Chinese_Formal: 利比亚
 dv_UNTERM_French_Formal: la Libye
 dv_UNTERM_Russian: Ливия
 dv_UNTERM_Russian_Formal: Ливия
-dv_Region_Name: '[[../../Africa|Africa]]'
+dv_Region_Name: '[[../../../Africa|Africa]]'
 dv_Intermediate_Region_Name: '[[Libya]]'
 dv_Sub-region_Name: '[[Northern Africa]]'
 dv_Region: 2
@@ -51,7 +51,7 @@ dv_ISO2: LY
 dv_ISO3: LBY
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Libya,1016|WD~Libya,1016]]'
+  - '[[../../../../../WikiData/WD~Libya,1016|WD~Libya,1016]]'
   - '[[/_Standards/Earth/Continent/Africa/Africa~North/Libya|Libya]]'
   - '[[/_public/Earth/Continent/Africa/Africa~North/Libya.public|Libya.public]]'
   - '[[/_internal/Earth/Continent/Africa/Africa~North/Libya.internal|Libya.internal]]'
@@ -354,17 +354,17 @@ dv_has_:
 dv_has_name_de: Libyen Libyan Arab. Jamahiriya
 dv_Area-Total: 1775500
 dv_Area-Land: 1759540
-dv_has_place_continent: '[[../../Africa|Africa]]'
+dv_has_place_continent: '[[../../../Africa|Africa]]'
 dv_VehicleCode: LAR
-dv_Capital: "[[Libya/Districs~Libya/Tajura'_wa_an_Nawahi_al_Arba/City/Tripoli|Tripoli]]"
+dv_Capital: "[[Districs~Libya/Tajura'_wa_an_Nawahi_al_Arba/City/Tripoli|Tripoli]]"
 dv_Alcohol-l: 0.1
 dv_Language-Id: 472
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 13.19
 dv_has_place_latitude: 32.89
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Libya,1016|WD~Libya,1016]]'
+- '[[../../../../../WikiData/WD~Libya,1016|WD~Libya,1016]]'
 - '[[/_Standards/Earth/Continent/Africa/Africa~North/Libya|Libya]]'
 - '[[/_public/Earth/Continent/Africa/Africa~North/Libya.public|Libya.public]]'
 - '[[/_internal/Earth/Continent/Africa/Africa~North/Libya.internal|Libya.internal]]'
@@ -603,7 +603,7 @@ demonym:
 - ليبي
 - ليبيون
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
 - '[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
@@ -914,7 +914,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Libya/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map 
 
@@ -934,7 +934,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Libya_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -962,7 +962,7 @@ Capital = `=this.dv_Capital`
 
 ![[Seal_of_the_Government_of_National_Unity_(Libya).svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Libya.mp3|Anthem-Libya.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Libya.mp3|Anthem-Libya.mp3]]
 
 ![[Flag_of_Libya.svg|350]]
 
